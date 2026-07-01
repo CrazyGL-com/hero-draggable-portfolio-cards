@@ -3,7 +3,7 @@ name: draggable-portfolio-cards
 description: "Portfolio cards float behind the headline and can be dragged with momentum, making the hero feel tactile and playful."
 metadata:
   author: "@ybouane"
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 ## How To Use This Skill
